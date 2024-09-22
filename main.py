@@ -28,13 +28,20 @@ content2="""
 Below you can find some of the app I have Built in Python.  """
 st.write(content2)
 
-col3,col4=st.columns(2)
+col3,emptyclo,col4=st.columns([1.5,0.5,1.5])
 
 df=pandas.read_csv("data.csv",sep=";")
 with col3:
    for index, rows in df[:10].iterrows():
       st.header(rows["title"])
+      st.write(rows["description"])
+      st.image("images for my portfolio/"+rows["image"])
+      st.write(f"[Source Code]({rows["url"]})")
+
 
 with col4:
    for index, rows in df[10:].iterrows():
       st.header(rows["title"])
+      st.write(rows["description"])
+      st.image("images for my portfolio/"+rows["image"])
+      st.write(f"[Source Code]({rows["url"]})")
