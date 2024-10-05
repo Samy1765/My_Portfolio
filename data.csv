@@ -1,8 +1,11 @@
 title;description;url;image
-Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/Samy1765/web-app.git;1.png
+My Beginners Mini Project;Link of my git hub repository in which the mini project which i learned and created are stored;https://github.com/Samy1765/My_beginners_Code_py.git;0.png
+Todo WebApp & Cam;A distraction-free web app to help you focus on creating and completing tasks with some additional feature of camera and making into grey image;https://github.com/Samy1765/web-app.git;1.png
+Todo App;A distraction-free app to help you focus on creating and completing tasks.;https://github.com/Samy1765/Todo_app_py.git;1.png
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/Samy1765/My_Portfolio.git;2.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://pythonhow.com;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://pythonhow.com;4.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/Samy1765/Weather_Forcasting_Web_py.git;16.png
 Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://pythonhow.com;6.png
 Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;7.png
@@ -14,7 +17,6 @@ Typing Analyzer;A program that monitors the computer keyboard and returns the mo
 Internet Speed Analysis;A program that records the internet speed every few seconds and plots the values on the browser.;https://pythonhow.com;13.png
 Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;https://pythonhow.com;14.png
 Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;https://pythonhow.com;15.png
-Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://pythonhow.com;16.png
 Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://pythonhow.com;17.png
 School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;18.png
 Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://pythonhow.com;19.png
